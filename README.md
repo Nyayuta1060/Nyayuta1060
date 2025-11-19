@@ -48,14 +48,6 @@ Check out my projects and works!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyayuta1060&layout=compact&theme=radical)](https://github.com/Nyayuta1060)
 
-## 🌱 Currently Learning
-
-- Modern web development with Elixir & Phoenix Framework
-- Deep learning with PyTorch for image recognition and NLP
-- Responsive design and UI/UX best practices
-- Real-time web applications with Phoenix LiveView
-- Building efficient systems with C++ for robotics
-
 ## 📫 How to reach me
 
 Feel free to connect with me through GitHub or visit my portfolio website!
