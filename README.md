@@ -14,12 +14,13 @@
 
 ## 🚀 About Me
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with expertise in building beautiful and functional web experiences. I love exploring new technologies and turning ideas into reality through code.
+Welcome to my GitHub profile! I'm a **versatile developer** passionate about exploring various fields of software development. I enjoy diving into different technologies and finding the best tools for each challenge.
 
-- 🔭 Currently working on **exciting web projects**
-- 🌱 Always learning and improving my skills
-- 💡 Interested in **AI/ML**, **Web Development**, and **Open Source**
-- ⚡ Fun fact: I love solving complex problems with elegant solutions
+- 🔭 Currently working on **diverse projects** across multiple domains
+- 🌱 Always learning new technologies and best practices
+- 💡 Interested in **App Development**, **Web Development**, **Server Management**, **Programming Languages**, and **Software Architecture**
+- 🛠️ Enjoying the challenge of mastering different tech stacks
+- ⚡ Fun fact: I believe being a generalist helps create better solutions
 
 ---
 
