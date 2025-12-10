@@ -77,13 +77,20 @@ Check out my projects and works!
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nyayuta1060&theme=radical&hide_border=true&background=0D1117)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyayuta1060&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyayuta1060&layout=compact&theme=radical"/>
 
 </div>
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nyayuta1060&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nyayuta1060&theme=radical)](https://github.com/Nyayuta1060)
+
+</div>
+
+<div align="center">
+
+[![Nyayuta1060's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nyayuta1060&theme=tokyo-night)](https://github.com/Nyayuta1060)
 
 </div>
 
@@ -93,7 +100,7 @@ Check out my projects and works!
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Nyayuta1060&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nyayuta1060&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/Nyayuta1060)
 
 </div>
 
