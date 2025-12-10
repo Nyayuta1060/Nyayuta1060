@@ -77,13 +77,21 @@ Check out my projects and works!
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyayuta1060&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyayuta1060&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff3068&icon_color=ff3068&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyayuta1060&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff3068&text_color=ffffff&langs_count=6)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyayuta1060&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nyayuta1060&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nyayuta1060&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
 </div>
 
