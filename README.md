@@ -78,10 +78,10 @@ Check out my projects and works!
 <div align="center">
 
 <a href="https://github.com/Nyayuta1060">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyayuta1060&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Nyayuta1060's GitHub Stats" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyayuta1060&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Nyayuta1060">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyayuta1060&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&card_width=320" alt="Top Languages" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyayuta1060&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&card_width=320&cache_seconds=1800" alt="Top Languages" />
 </a>
 
 </div>
@@ -104,7 +104,9 @@ Check out my projects and works!
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nyayuta1060&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/Nyayuta1060)
+<a href="https://github.com/Nyayuta1060">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nyayuta1060&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</a>
 
 </div>
 
