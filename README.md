@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Nyayuta1060?label=Follow&style=for-the-badge&logo=github)](https://github.com/Nyayuta1060)
 [![Profile Views](https://komarev.com/ghpvc/?username=Nyayuta1060&color=blueviolet&style=for-the-badge)](https://github.com/Nyayuta1060)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Github" alt="Typing SVG" />
 
 </div>
 
