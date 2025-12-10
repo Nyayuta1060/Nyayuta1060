@@ -77,9 +77,12 @@ Check out my projects and works!
 
 <div align="center">
 
-![Nyayuta1060's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nyayuta1060&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nyayuta1060&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
+<a href="https://github.com/Nyayuta1060">
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyayuta1060&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff3068&icon_color=ff3068&text_color=ffffff" />
+</a>
+<a href="https://github.com/Nyayuta1060">
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyayuta1060&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff3068&text_color=ffffff&langs_count=6" />
+</a>
 
 </div>
 
