@@ -4,10 +4,10 @@ on:
   # 毎日午前0時（UTC）に自動実行
   schedule:
     - cron: "0 0 * * *"
-  
+
   # 手動実行を許可
   workflow_dispatch:
-  
+
   # mainブランチへのpush時に実行
   push:
     branches:
@@ -19,7 +19,7 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: write
-    
+
     steps:
       # コントリビューショングラフからスネークアニメーションを生成
       - name: Generate github-contribution-grid-snake.svg
@@ -31,7 +31,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
+
       # 生成されたファイルをoutputブランチにpush
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
