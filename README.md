@@ -77,13 +77,13 @@ Check out my projects and works!
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nyayuta1060&theme=radical&hide_border=true&background=0D1117)](https://github.com/Nyayuta1060)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyayuta1060&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-[![Nyayuta1060's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nyayuta1060&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/Nyayuta1060)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyayuta1060&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 
 </div>
 
