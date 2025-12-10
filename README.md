@@ -77,24 +77,24 @@ Check out my projects and works!
 
 <div align="center">
 
-<a href="https://github.com/Nyayuta1060">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Nyayuta1060&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nyayuta1060&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/Nyayuta1060">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyayuta1060&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&card_width=320&cache_seconds=1800" alt="Top Languages" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nyayuta1060&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nyayuta1060&theme=radical&hide_border=true&background=0D1117)](https://github.com/Nyayuta1060)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nyayuta1060&theme=radical)](https://github.com/Nyayuta1060)
 
 </div>
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nyayuta1060&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/Nyayuta1060)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nyayuta1060&theme=tokyo-night)](https://github.com/Nyayuta1060)
 
 </div>
 
@@ -104,9 +104,7 @@ Check out my projects and works!
 
 <div align="center">
 
-<a href="https://github.com/Nyayuta1060">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nyayuta1060&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nyayuta1060&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
