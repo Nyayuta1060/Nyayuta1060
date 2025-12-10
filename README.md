@@ -79,7 +79,7 @@ Check out my projects and works!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyayuta1060&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff3068&icon_color=ff3068&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyayuta1060&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff3068&text_color=ffffff&langs_count=6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyayuta1060)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
